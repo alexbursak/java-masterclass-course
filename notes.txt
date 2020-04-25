@@ -16,6 +16,21 @@ Variables
 Lesson 23
 Variables & Expressions
 
+Lesson 24
+Primitive types(8):
+    1) boolean
+    2) byte
+    3) char
+    4) short
+    5) int - between -2147483648 and 2147483647
+    6) long
+    7) float
+    8) double
+Package - a way to organize java project (like namespaces in PHP?)
+Java uses wrapper classes for all primitive types
+Underscores can bu used in numbers to make big numbers more readable. eg 2147483647 => 2_147_483_647
+
+
 
 
 
