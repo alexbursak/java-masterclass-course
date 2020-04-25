@@ -24,8 +24,8 @@ Primitive types(8):
     4) short - between -32768 and 32767 (16 bits)
     5) int - between -2147483648 and 2147483647 (32 bits)
     6) long - between -9223372036854775808 and 9223372036854775807 (64 bits) range is 2^63
-    7) float
-    8) double
+    7) float - single precision (32 bits)
+    8) double - double precision (64 bits)
 Package - a way to organize java project (like namespaces in PHP?)
 Java uses wrapper classes for all primitive types
 Underscores can bu used in numbers to make big numbers more readable. eg 2147483647 => 2_147_483_647
@@ -40,6 +40,11 @@ Casting types
 
 Lesson 27
 Some coding practice.
+
+Lesson 28
+Float and double
+Good practice: add 'f' for floats in the end and 'd' for doubles for round numbers. eg. 4f and 7d
+double is assumed to be default for numbers with decimals.
 
 
 
