@@ -18,9 +18,9 @@ Variables & Expressions
 
 Lesson 24
 Primitive types(8):
-    1) boolean
+    1) boolean -
     2) byte - between -128 and 127 (8 bits)
-    3) char
+    3) char - single character only (16 bits) allows to store unicode, that is why not 8 bits
     4) short - between -32768 and 32767 (16 bits)
     5) int - between -2147483648 and 2147483647 (32 bits)
     6) long - between -9223372036854775808 and 9223372036854775807 (64 bits) range is 2^63
@@ -53,4 +53,6 @@ Use double instead of float
 float and double are not great for floating point operations due to how those values are stored
 and this is not Java issue. Therefore `BigDecimal` was introduced.
 
-
+Lesson 30
+Char & boolean
+Char can store only single character
