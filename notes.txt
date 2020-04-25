@@ -46,5 +46,11 @@ Float and double
 Good practice: add 'f' for floats in the end and 'd' for doubles for round numbers. eg. 4f and 7d
 double is assumed to be default for numbers with decimals.
 
+Lesson 29
+Float and double
+Double is faster to process for modern computers (interesting)
+Use double instead of float
+float and double are not great for floating point operations due to how those values are stored
+and this is not Java issue. Therefore `BigDecimal` was introduced.
 
 
