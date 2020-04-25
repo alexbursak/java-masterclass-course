@@ -38,7 +38,8 @@ To force long type - all 'L' in the end of value. eg 100L
 Lesson 26
 Casting types
 
-
+Lesson 27
+Some coding practice.
 
 
 
