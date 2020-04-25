@@ -7,9 +7,10 @@ Project setup
 Lesson 20
 Hello world (classic...)
 
-Lesson
+Lesson 21
 Working with printing string
 
-
+Lesson 22
+Variables
 
 
