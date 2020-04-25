@@ -25,5 +25,8 @@ public class Main {
 
         System.out.println(myMinLongValue);
         System.out.println(myMaxLongValue);
+
+        int myIntNumber = 100;
+        byte myNewByteValue = (byte) myIntNumber;
     }
 }

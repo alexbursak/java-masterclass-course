@@ -35,5 +35,10 @@ Byte and short and long
 Width of primitive type is a number of bits it occupies. eg byte is 8 bits so the with of 8
 To force long type - all 'L' in the end of value. eg 100L
 
+Lesson 26
+Casting types
+
+
+
 
 
