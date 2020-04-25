@@ -13,4 +13,9 @@ Working with printing string
 Lesson 22
 Variables
 
+Lesson 23
+Variables & Expressions
+
+
+
 
