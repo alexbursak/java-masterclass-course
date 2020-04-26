@@ -79,8 +79,12 @@ if-then statement (aka conditional logic/statement)
 
 Lesson 35
 Working on operators ('>', '<', '!=', etc)
-`&&` logical 'and' operator
-`&` bitwise 'and' operator
+`&&` logical 'AND' operator
+`&` bitwise 'AND' operator
 
+Lesson 36
+Working on expression (using pretences and logical OR)
+`||` logical 'OR' operator
+`|` bitwise 'OR' operator
 
 
