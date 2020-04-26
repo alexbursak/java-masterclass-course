@@ -74,6 +74,8 @@ Lesson 33
 Operation abbreviation.
 Things like `variable++`, `+variable`, `+=` and so on ...
 
+Lesson 34
+if-then statement (aka conditional logic/statement)
 
 
 
