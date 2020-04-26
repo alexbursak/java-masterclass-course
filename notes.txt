@@ -70,3 +70,10 @@ Operator - symbol that perform an operation
 Operand - any object manipulated by operator
 Expression - combination of variables, literal, return values and operators. (operators and operands combined)
 
+Lesson 33
+Operation abbreviation.
+Things like `variable++`, `+variable`, `+=` and so on ...
+
+
+
+
