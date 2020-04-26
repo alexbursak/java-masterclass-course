@@ -63,3 +63,10 @@ String can fit up to max_value of an int.
 Strings in Java are immutable, when you changing a string - new String object is created.
 String class in Java sets to be used in easy and simple way compared to other classes because it is
 heavily used.
+
+Lesson 32
+Operators
+Operator - symbol that perform an operation
+Operand - any object manipulated by operator
+Expression - combination of variables, literal, return values and operators. (operators and operands combined)
+
