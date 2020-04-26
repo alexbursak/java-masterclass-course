@@ -77,5 +77,10 @@ Things like `variable++`, `+variable`, `+=` and so on ...
 Lesson 34
 if-then statement (aka conditional logic/statement)
 
+Lesson 35
+Working on operators ('>', '<', '!=', etc)
+`&&` logical 'and' operator
+`&` bitwise 'and' operator
+
 
 
