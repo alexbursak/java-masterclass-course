@@ -56,3 +56,10 @@ and this is not Java issue. Therefore `BigDecimal` was introduced.
 Lesson 30
 Char & boolean
 Char can store only single character
+
+Lesson 31
+String data type.
+String can fit up to max_value of an int.
+Strings in Java are immutable, when you changing a string - new String object is created.
+String class in Java sets to be used in easy and simple way compared to other classes because it is
+heavily used.
