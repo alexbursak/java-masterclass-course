@@ -87,4 +87,7 @@ Working on expression (using pretences and logical OR)
 `||` logical 'OR' operator
 `|` bitwise 'OR' operator
 
+Lesson 37
+Equal operator
+
 
