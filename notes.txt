@@ -111,3 +111,6 @@ Keywords & expressions
 Lesson 44
 Statement, white space and indenting
 
+Lesson 45
+Code blocks
+
