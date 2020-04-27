@@ -115,5 +115,16 @@ Lesson 45
 Code blocks
 
 Lesson 46
-- - - 
+- - -
+
+Lesson 47
+Methods
+
+
+
+
+
+
+
+
 
