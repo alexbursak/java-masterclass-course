@@ -93,4 +93,7 @@ Equal operator
 Lesson 38
 Ternary operators
 
+Lesson 39
+Operator precedence
+
 
