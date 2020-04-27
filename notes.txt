@@ -106,4 +106,8 @@ Lesson 42
 - - -
 
 Lesson 43
-Keywords
+Keywords & expressions
+
+Lesson 44
+Statement, white space and indenting
+
