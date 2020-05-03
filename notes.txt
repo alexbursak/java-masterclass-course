@@ -121,8 +121,35 @@ Lesson 47
 Methods
 
 Lesson 48
+- - -
 
+Lesson 49
+- - -
 
+Lesson 50
+- - -
+
+Lesson 51
+- - -
+
+Lesson 52
+- - -
+
+Lesson 53
+- - -
+
+Lesson 54
+- - -
+
+Lesson 55
+- - -
+
+Lesson 56
+- - -
+
+Lesson 57
+Method overloading
+Different method return type does not creates method oveloading.
 
 
 
