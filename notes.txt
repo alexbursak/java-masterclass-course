@@ -154,5 +154,10 @@ Different method return type does not creates method oveloading.
 Lesson 58
 Recap method overloading
 
+Lesson 59
+- - -
 
+Lesson 60
+Example of constant definition:
+private static final String INVALID_VAL_MGS = "Invalid value!";
 

@@ -2,8 +2,10 @@ package acadamy.learnprogramming;
 
 public class Main {
 
+    private static final String INVALID_VAL_MGS = "Invalid value!";
+
     public static void main(String[] args) {
-        calc();
+        System.out.println(INVALID_VAL_MGS);
     }
 
     public static int calc(int p1, int p2) {
